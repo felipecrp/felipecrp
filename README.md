@@ -11,7 +11,6 @@ You can find me online at:
   - [GitHub]
   - [LinkedIn]
   - [Twitter BR] [Twitter US]
-  - [Keybase]
   - [LinkedIn]
 
 [Personal Site]: https://felipecrp.github.io/
