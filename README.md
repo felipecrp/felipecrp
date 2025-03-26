@@ -3,7 +3,8 @@ Hi there! 👋
 I am the Quality Assurance Team Leader at the Brazilian Development Bank, and
 Independent Software Engineer and Cybersecurity Researcher (Ph.D).
 
-You can find me online at my [Personal Site](https://felipecrp.github.io) and check my [blog posts](https://felipecrp.github.io/pos).
+You can find me online at my [personal site](https://felipecrp.github.io) and
+check my [blog posts](https://felipecrp.github.io/posts).
 
 Moreover, I am developing the following open-source projects:
 
