@@ -1,23 +1,18 @@
 Hi there! 👋
 
-I'm a Ph.D. Student at the Computing Institute of Fluminense Federal University (UFF). My broad research area is software engineering, and my current research project is related to the development of rapid software releases.
+I am the Quality Assurance Team Leader at the Brazilian Development Bank, and
+Independent Software Engineer and Cybersecurity Researcher (Ph.D).
 
-Also, I work as IT Infrastructure Team Leader at Brazilian Development Bank. My main responsibilities is to coordinate the Application Lifecycle Management and Site Reliability Engineer teams.
+You can find me online at my [Personal Site](https://felipecrp.github.io) and check my [blog posts](https://felipecrp.github.io/pos).
 
-You can find me online at:
-  - [Personal Site]
-  - [ResearchGate]
-  - [Scholar]
-  - [GitHub]
-  - [LinkedIn]
-  - [Twitter BR] [Twitter US]
-  - [LinkedIn]
+Moreover, I am developing the following open-source projects:
 
-[Personal Site]: https://felipecrp.github.io/
-[Scholar]: https://scholar.google.com.br/citations?user=jXGVY28AAAAJ&hl=en
-[ResearchGate]: https://www.researchgate.net/profile/Felipe_Rego_Pinto2
-[GitHub]: https://github.com/felipecrp
-[LinkedIn]: http://linkedin.com/in/felipecrp
-[Twitter BR]: https://twitter.com/felipecrp
-[Twitter US]: https://twitter.com/curty_sh
+  - [releasy](https://github.com/gems-uff/releasy): a library for analyze releases;
+  - [pytest-pyspec](https://github.com/felipecrp/pytest-pyspec): a
+    Behavior-driven development plugin for _pytest_ that enables writing more user
+    friendly tests using 'describe', 'with', and 'it' placeholders; and
+  - [prchart](https://github.com/felipecrp/prchart): a library to create publish
+    ready charts on top of _matplotlib_ that enables the use of a grammar of
+    graphics.
 
+Regards,
